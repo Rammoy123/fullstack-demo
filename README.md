@@ -1,1 +1,1 @@
-# fullstack-demo
+# Blog app
