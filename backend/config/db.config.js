@@ -7,3 +7,7 @@
 module.exports = {
     url: `mongodb+srv://${DB_USER}:${DB_PASSWORD}@cluster0.3png5.mongodb.net/sample_db`
   };
+
+
+//   lollll0123
+// new terminal1
